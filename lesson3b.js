@@ -27,6 +27,9 @@ console.log(userNames);
 
 console.log("==================")
 // It creates a new array
+let number = [1,2,3,4,5];
+let squares = number.map(num => num**2);
+console.log(squares)
 
 
 
